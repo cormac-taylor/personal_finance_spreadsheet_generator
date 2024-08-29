@@ -9,4 +9,5 @@ customization. Functionality, it will include investment portfolio tracking & to
 budgeting, credit card stats, and credit score & net worth tracking.
 
 ## Sources:
-[Interact with Google Sheets from Java - Baeldung](https://www.baeldung.com/google-sheets-java-client)
+- [Interact with Google Sheets from Java - Baeldung](https://www.baeldung.com/google-sheets-java-client)
+- [Java quickstart](https://developers.google.com/sheets/api/quickstart/java)
